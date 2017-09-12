@@ -1,2 +1,2 @@
 # misc
-misc stuff goes here
+Documentations, books etc...
